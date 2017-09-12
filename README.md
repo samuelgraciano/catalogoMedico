@@ -1,2 +1,0 @@
-# catalogoMedico
-productos medicos
